@@ -1,2 +1,2 @@
 # claude-code-vllm
-Exploring vllm using claude code 
+Explore vllm using claude code 
